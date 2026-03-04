@@ -1,1 +1,1 @@
-This is me adding some text.
+This is me adding some text. I am testing how to do commit messages with vscode. 
